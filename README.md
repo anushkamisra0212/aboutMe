@@ -140,12 +140,6 @@ I speak **English and Hindi**, with beginner-level Arabic.
 
 ---
 
-## 📊 GitHub Stats
-
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=anushkamisra0212&show_icons=true&theme=default&hide_border=true)
-
----
-
 ## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushkamisra)
